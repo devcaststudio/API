@@ -1,0 +1,260 @@
+{
+	"filters": [{
+		"values": [{
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:150105",
+			"count": 2,
+			"name": "Concealer",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:150000",
+			"count": 5,
+			"name": "Cosmetics",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:150100",
+			"count": 5,
+			"name": "FACE MAKEUP",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:150104",
+			"count": 1,
+			"name": "Face Powder",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:150101",
+			"count": 2,
+			"name": "Foundation",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:category:1",
+			"count": 5,
+			"name": "Product Categories",
+			"selected": false
+		}],
+		"multiSelect": true,
+		"name": "Category",
+		"priority": 8000,
+		"category": true
+	}, {
+		"values": [{
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:masterBrandName:Physicians Formula",
+			"count": 5,
+			"name": "Physicians Formula",
+			"selected": false
+		}],
+		"multiSelect": true,
+		"name": "Brand",
+		"priority": 7000,
+		"category": false
+	}, {
+		"values": [{
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:priceValue:60.98",
+			"count": 2,
+			"name": "60.98",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:priceValue:62.87",
+			"count": 1,
+			"name": "62.87",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:priceValue:75.28",
+			"count": 2,
+			"name": "75.28",
+			"selected": false
+		}],
+		"multiSelect": true,
+		"name": "Price",
+		"priority": 6000,
+		"category": false
+	}, {
+		"values": [{
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:promotionsTag:5x Points",
+			"count": 5,
+			"name": "5x Points",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:promotionsTag:Gift With Purchase",
+			"count": 5,
+			"name": "Gift With Purchase",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:promotionsTag:PWP Less 30%",
+			"count": 5,
+			"name": "PWP Less 30%",
+			"selected": false
+		}],
+		"multiSelect": true,
+		"name": "Promotion",
+		"priority": 4000,
+		"category": false
+	}, {
+		"values": [{
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller:isInStock:true",
+			"count": 4656,
+			"name": "In Stock",
+			"selected": false
+		}, {
+			"query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller",
+			"count": 114,
+			"name": "All Stock",
+			"selected": false
+		}],
+		"multiSelect": false,
+		"name": "In Stock",
+		"priority": 1000,
+		"category": false
+	}],
+	"Cookie": "JSESSIONID=D04979283FEC74AD5DB4443B96C837F0.wmypfa06; Path=\/; Secure",
+	"sorts": [{
+		"name": "Best Seller",
+		"selected": true,
+		"code": "igcBestSeller"
+	}, {
+		"name": "Top Rated",
+		"selected": false,
+		"code": "topRated"
+	}, {
+		"name": "New",
+		"selected": false,
+		"code": "new"
+	}, {
+		"name": "Price Low to High",
+		"selected": false,
+		"code": "price-asc"
+	}, {
+		"name": "Price High to Low",
+		"selected": false,
+		"code": "price-desc"
+	}],
+	"pagination": {
+		"totalPages": 1,
+		"totalResults": 5,
+		"currentPage": 0,
+		"pageSize": 20,
+		"sort": "igcBestSeller"
+	},
+	"prices": {
+		"max_range": "75",
+		"min_range": "0",
+		"max_range_selected": "75",
+		"min_range_selected": "0"
+	},
+	"current_query": "BP_54968 BP_54971 BP_54975 BP_54974 BP_54969:igcBestSeller",
+	"products": [{
+		"stock_level": 20,
+		"tprPriceFlag": true,
+		"price_value": "75.28",
+		"image_url": "https:\/\/www.watsons.com.my\/medias\/sys_master\/front\/cat\/8867035709470.jpg",
+		"url": "https:\/\/www.watsons.com.my\/Unpublished\/Makeup\/Face\/Youthful-Wear-Boosting-Spotless-Foundation-LG\/p\/BP_54968",
+		"brand_name": "PHYSICIANS FORMULA",
+		"isWishlistChecked": false,
+		"price_formated_value": "RM75.28",
+		"code": "BP_54968",
+		"price_currency": "MYR",
+		"promotion_tags": [
+			"5x Points",
+			"Gift With Purchase",
+			"PWP Less 30%"
+		],
+		"igcOldPrice": {
+			"priceType": "BUY",
+			"value": "83.65",
+			"currencyIso": "MYR",
+			"formattedValue": "RM83.65"
+		},
+		"name": "Youthful Wear Boosting Spotless Foundation LG"
+	}, {
+		"stock_level": 20,
+		"tprPriceFlag": true,
+		"price_value": "75.28",
+		"image_url": "https:\/\/www.watsons.com.my\/medias\/sys_master\/front\/cat\/8867056746526.jpg",
+		"url": "https:\/\/www.watsons.com.my\/Unpublished\/Makeup\/Face\/Youthful-Wear-Boosting-Spotless-Foundation-MD-1%27s\/p\/BP_54969",
+		"brand_name": "PHYSICIANS FORMULA",
+		"isWishlistChecked": false,
+		"price_formated_value": "RM75.28",
+		"code": "BP_54969",
+		"price_currency": "MYR",
+		"promotion_tags": [
+			"5x Points",
+			"Gift With Purchase",
+			"PWP Less 30%"
+		],
+		"igcOldPrice": {
+			"priceType": "BUY",
+			"value": "83.65",
+			"currencyIso": "MYR",
+			"formattedValue": "RM83.65"
+		},
+		"name": "Youthful Wear Boosting Spotless Foundation MD 1's"
+	}, {
+		"stock_level": 20,
+		"tprPriceFlag": true,
+		"price_value": "62.87",
+		"image_url": "https:\/\/www.watsons.com.my\/medias\/sys_master\/front\/cat\/8867037970462.jpg",
+		"url": "https:\/\/www.watsons.com.my\/Unpublished\/Makeup\/Face\/Youthful-Wear-Boosting-Face-Powder-BE-1pc\/p\/BP_54971",
+		"brand_name": "PHYSICIANS FORMULA",
+		"isWishlistChecked": false,
+		"price_formated_value": "RM62.87",
+		"code": "BP_54971",
+		"price_currency": "MYR",
+		"promotion_tags": [
+			"5x Points",
+			"Gift With Purchase",
+			"PWP Less 30%"
+		],
+		"igcOldPrice": {
+			"priceType": "BUY",
+			"value": "69.85",
+			"currencyIso": "MYR",
+			"formattedValue": "RM69.85"
+		},
+		"name": "Youthful Wear Boosting Face Powder BE 1pc"
+	}, {
+		"stock_level": 20,
+		"tprPriceFlag": true,
+		"price_value": "60.98",
+		"image_url": "https:\/\/www.watsons.com.my\/medias\/sys_master\/front\/cat\/8867052650526.jpg",
+		"url": "https:\/\/www.watsons.com.my\/Unpublished\/Makeup\/Face\/Youthful-Wear-Youth-Boosting-Concealer-LG-1pc\/p\/BP_54975",
+		"brand_name": "PHYSICIANS FORMULA",
+		"isWishlistChecked": false,
+		"price_formated_value": "RM60.98",
+		"code": "BP_54975",
+		"price_currency": "MYR",
+		"promotion_tags": [
+			"5x Points",
+			"Gift With Purchase",
+			"PWP Less 30%"
+		],
+		"igcOldPrice": {
+			"priceType": "BUY",
+			"value": "67.75",
+			"currencyIso": "MYR",
+			"formattedValue": "RM67.75"
+		},
+		"name": "Youthful Wear Youth Boosting Concealer LG 1pc"
+	}, {
+		"stock_level": 20,
+		"tprPriceFlag": true,
+		"price_value": "60.98",
+		"image_url": "https:\/\/www.watsons.com.my\/medias\/sys_master\/front\/cat\/8867040952350.jpg",
+		"url": "https:\/\/www.watsons.com.my\/Unpublished\/Makeup\/Face\/Youthful-Wear-Youth-Concealer-LG%2BYW-1pc\/p\/BP_54974",
+		"brand_name": "PHYSICIANS FORMULA",
+		"isWishlistChecked": false,
+		"price_formated_value": "RM60.98",
+		"code": "BP_54974",
+		"price_currency": "MYR",
+		"promotion_tags": [
+			"5x Points",
+			"Gift With Purchase",
+			"PWP Less 30%"
+		],
+		"igcOldPrice": {
+			"priceType": "BUY",
+			"value": "67.75",
+			"currencyIso": "MYR",
+			"formattedValue": "RM67.75"
+		},
+		"name": "Youthful Wear Youth Concealer LG+YW 1pc"
+	}]
+}
