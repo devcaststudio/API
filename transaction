@@ -1,0 +1,46 @@
+{
+	"status": "Success",
+	"data": [{
+		"date": "Senin",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Selasa",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Rabu",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Kamis",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Jumat",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Saptu",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}, {
+		"date": "Minggu",
+		"transaction": [{
+			"productName": "John",
+			"printName": "Doe"
+		}]
+	}]
+}
