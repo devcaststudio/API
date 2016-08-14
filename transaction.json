@@ -3,7 +3,10 @@
 	"data": [{
 		"date": "Senin",
 		"transaction": [{
-			"productName": "John",
+			"productName": "Ary Munandar",
+			"printName": "Doe"
+		}, {
+			"productName": "Otong",
 			"printName": "Doe"
 		}]
 	}, {
