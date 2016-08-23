@@ -4,7 +4,13 @@
 		"productName": "Ari Munandar",
 		"productBrand": "admin@admin.com",
 		"Entries": [{
-			"imageURL": "Blabla",
+			"imageURL": "asdas",
+			"cart": 10
+		},{
+			"imageURL": "sdfsdfs",
+			"cart": 10
+		},{
+			"imageURL": "gsdsfd",
 			"cart": 10
 		}]
 	}]
