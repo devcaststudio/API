@@ -1,11 +1,9 @@
 {
 	"status": "Success",
 	"data": [{
-		"productName": "Nike",
-		"productBrand": "Nike",
-		"entries": {
-			"cart": "20",
-			"image": "imageURL"
-		}
+		"entries": [{
+			"name": "Ary Munandar",
+			"color": ["Red", "Blue"]
+		}]
 	}]
 }
