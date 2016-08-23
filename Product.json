@@ -3,7 +3,9 @@
 	"data": [{
 		"entries": [{
 			"name": "Ary Munandar",
-			"color": ["Red", "Blue"]
+			"color": [{
+				"red": "This RED"
+			}]
 		}]
 	}]
 }
