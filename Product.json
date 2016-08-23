@@ -1,17 +1,11 @@
 {
 	"status": "Success",
 	"data": [{
-		"productName": "Ari Munandar",
-		"productBrand": "admin@admin.com",
-		"Entries": [{
-			"imageURL": "asdas",
-			"cart": 10
-		},{
-			"imageURL": "sdfsdfs",
-			"cart": 10
-		},{
-			"imageURL": "gsdsfd",
-			"cart": 10
-		}]
+		"productName": "Nike",
+		"productBrand": "Nike",
+		"entries": {
+			"cart": "20",
+			"image": "imageURL"
+		}
 	}]
 }
