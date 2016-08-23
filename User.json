@@ -8,6 +8,14 @@
 		"name": "Udin",
 		"email": "Udin@admin.com",
 		"level": "Udin"
+	}, {
+		"name": "Ucok",
+		"email": "Ucok@admin.com",
+		"level": "Ucok"
+	}, {
+		"name": "Otong",
+		"email": "Otong@admin.com",
+		"level": "Otong"
 	}]
 
 }
