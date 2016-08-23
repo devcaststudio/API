@@ -6,6 +6,16 @@
 			"color": [{
 				"red": "This RED"
 			}]
+		}, {
+			"name": "Udin",
+			"color": [{
+				"red": "This Blue"
+			}]
+		}, {
+			"name": "Ucok",
+			"color": [{
+				"red": "This Green"
+			}]
 		}]
 	}]
 }
