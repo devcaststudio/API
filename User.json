@@ -1,9 +1,13 @@
 {
 	"status": "Success",
-	"data": {
+	"data": [{
 		"name": "Ari Munandar",
 		"email": "admin@admin.com",
 		"level": "ADMIN"
-	}
+	}, {
+		"name": "Udin",
+		"email": "Udin@admin.com",
+		"level": "Udin"
+	}]
 
 }
