@@ -1,6 +1,6 @@
 {
 	"status": "Success",
-	"data": [{
+	"userData": [{
 		"name": "Ari Munandar",
 		"email": "admin@admin.com",
 		"level": "ADMIN"
